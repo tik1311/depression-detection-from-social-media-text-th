@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D3B66&height=220&section=header&text=Depression%20Detection%20from%20Social%20Media%20Text%20Using%20Different%20Language%20Datasets%20and%20Deep%20Learning%20Techniques&fontSize=12&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=NCCIT%202025%20Best%20Paper%20%7C%20Thai%20NLP%20Research&descAlignY=62&descSize=16&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D3B66&height=220&section=header&text=Depression%20Detection%20from%20Social%20Media%20Text%20Using%20Different%20Language%20Datasets%20and%20Deep%20Learning%20Techniques&fontSize=15&fontColor=FFD700&animation=fadeIn&fontAlignY=40&desc=NCCIT%202025%20Best%20Paper%20%7C%20Thai%20NLP%20Research&descAlignY=62&descSize=16&descColor=ffffff" width="100%"/>
 
-# 🧠 Depression Detection from Social Media Text<br/>Using Different Language Datasets and Deep Learning Techniques
-
-### การจำแนกภาวะซึมเศร้าจากข้อความโซเชียลมีเดีย<br/>โดยใช้ชุดข้อมูลต่างภาษา และเทคนิคการเรียนรู้เชิงลึก
+# 🧠 การจำแนกภาวะซึมเศร้าจากข้อความโซเชียลมีเดีย<br/>โดยใช้ชุดข้อมูลต่างภาษา และเทคนิคการเรียนรู้เชิงลึก
 
 **Cross-lingual depression classification using English datasets to build Thai-language models**
 
@@ -150,6 +148,8 @@ used purely for evaluation
 | 📍 **Venue** | Kanchanaburi, Thailand |
 
 ---
+
+
 
 <br/>
 
