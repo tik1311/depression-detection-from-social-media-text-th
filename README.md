@@ -21,7 +21,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=4&width=100%25)
 
-*Department of Computer Science, Faculty of Science — Kasetsart University*
+*Computer Science, Faculty of Science — Kasetsart University*
 
 </div>
 
@@ -149,7 +149,10 @@ used purely for evaluation
 
 ---
 
+### Connect Us
 
+</div>
+ 🤖 Thitima and team. 🤖
 
 <br/>
 
